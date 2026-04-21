@@ -1,4 +1,0 @@
-test
-fix contribution email
-force contribution check
-hello
